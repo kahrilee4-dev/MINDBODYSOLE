@@ -1,0 +1,5 @@
+- index.html
+- cart.html
+- style.css
+- script.js
+- assets/logo.jpeg (your uploaded logo)
