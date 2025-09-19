@@ -3,3 +3,6 @@
 - style.css
 - script.js
 - assets/logo.jpeg (your uploaded logo)
+- server.js
+- cart.html/script.js
+- https://your-backend.com/create-checkout-session
